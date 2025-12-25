@@ -1,204 +1,204 @@
 [
 {
-    title: "SAMSUNG Galaxy Watch 7 40mm Bluetooth AI Smartwatch",
-    id: "10001",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10001" },
-      { shop: "eby", url: "https://ebay.to/10001" },
-      { shop: "ali", url: "https://aliexpress.to/10001" }
+    "title": "SAMSUNG Galaxy Watch 7 40mm Bluetooth AI Smartwatch",
+    "id": "10001",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10001" },
+      { "shop": "eby", "url": "https://ebay.to/10001" },
+      { "shop": "ali", "url": "https://aliexpress.to/10001" }
     ],
-    category: "electronics",
-    special: "winter"
+    "category": "electronics",
+    "special": "winter"
   },
   {
-    title: "Apple AirPods Pro 2nd Generation",
-    id: "10002",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10002" },
-      { shop: "tem", url: "https://temu.to/10002" }
+    "title": "Apple AirPods Pro 2nd Generation",
+    "id": "10002",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10002" },
+      { "shop": "tem", "url": "https://temu.to/10002" }
     ],
-    category: "electronics",
-    special: "summer"
+    "category": "electronics",
+    "special": "summer"
   },
   {
-    title: "Philips Air Fryer XL 6.2L",
-    id: "10003",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10003" },
-      { shop: "ali", url: "https://aliexpress.to/10003" }
+    "title": "Philips Air Fryer XL 6.2L",
+    "id": "10003",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10003" },
+      { "shop": "ali", "url": "https://aliexpress.to/10003" }
     ],
-    category: "kitchen",
-    special: "winter"
+    "category": "kitchen",
+    "special": "winter"
   },
   {
-    title: "Logitech MX Master 3S Wireless Mouse",
-    id: "10004",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10004" },
-      { shop: "eby", url: "https://ebay.to/10004" }
+    "title": "Logitech MX Master 3S Wireless Mouse",
+    "id": "10004",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10004" },
+      { "shop": "eby", "url": "https://ebay.to/10004" }
     ],
-    category: "electronics",
-    special: "office"
+    "category": "electronics",
+    "special": "office"
   },
   {
-    title: "Wooden Kitchen Cutting Board Set",
-    id: "10005",
-    aff_links: [
-      { shop: "ali", url: "https://aliexpress.to/10005" },
-      { shop: "tem", url: "https://temu.to/10005" }
+    "title": "Wooden Kitchen Cutting Board Set",
+    "id": "10005",
+    "aff_links": [
+      { "shop": "ali", "url": "https://aliexpress.to/10005" },
+      { "shop": "tem", "url": "https://temu.to/10005" }
     ],
-    category: "kitchen",
-    special: "eco"
+    "category": "kitchen",
+    "special": "eco"
   },
   {
-    title: "Nike Air Zoom Running Shoes",
-    id: "10006",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10006" },
-      { shop: "eby", url: "https://ebay.to/10006" }
+    "title": "Nike Air Zoom Running Shoes",
+    "id": "10006",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10006" },
+      { "shop": "eby", "url": "https://ebay.to/10006" }
     ],
-    category: "fashion",
-    special: "sports"
+    "category": "fashion",
+    "special": "sports"
   },
   {
-    title: "Winter Thermal Blanket King Size",
-    id: "10007",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10007" },
-      { shop: "tem", url: "https://temu.to/10007" }
+    "title": "Winter Thermal Blanket King Size",
+    "id": "10007",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10007" },
+      { "shop": "tem", "url": "https://temu.to/10007" }
     ],
-    category: "home",
-    special: "winter"
+    "category": "home",
+    "special": "winter"
   },
   {
-    title: "Non-Stick Cookware 10-Piece Set",
-    id: "10008",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10008" },
-      { shop: "alb", url: "https://alibaba.to/10008" }
+    "title": "Non-Stick Cookware 10-Piece Set",
+    "id": "10008",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10008" },
+      { "shop": "alb", "url": "https://alibaba.to/10008" }
     ],
-    category: "kitchen",
-    special: "family"
+    "category": "kitchen",
+    "special": "family"
   },
   {
-    title: "Sony WH-1000XM5 Noise Cancelling Headphones",
-    id: "10009",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10009" },
-      { shop: "eby", url: "https://ebay.to/10009" }
+    "title": "Sony WH-1000XM5 Noise Cancelling Headphones",
+    "id": "10009",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10009" },
+      { "shop": "eby", "url": "https://ebay.to/10009" }
     ],
-    category: "electronics",
-    special: "travel"
+    "category": "electronics",
+    "special": "travel"
   },
   {
-    title: "Baby Soft Plush Teddy Bear",
-    id: "10010",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10010" },
-      { shop: "tem", url: "https://temu.to/10010" }
+    "title": "Baby Soft Plush Teddy Bear",
+    "id": "10010",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10010" },
+      { "shop": "tem", "url": "https://temu.to/10010" }
     ],
-    category: "baby",
-    special: "gift"
+    "category": "baby",
+    "special": "gift"
   },
   {
-    title: "Smart LED Strip Lights RGB",
-    id: "10011",
-    aff_links: [
-      { shop: "ali", url: "https://aliexpress.to/10011" },
-      { shop: "tem", url: "https://temu.to/10011" }
+    "title": "Smart LED Strip Lights RGB",
+    "id": "10011",
+    "aff_links": [
+      { "shop": "ali", "url": "https://aliexpress.to/10011" },
+      { "shop": "tem", "url": "https://temu.to/10011" }
     ],
-    category: "home",
-    special: "party"
+    "category": "home",
+    "special": "party"
   },
   {
-    title: "Ergonomic Office Chair Mesh",
-    id: "10012",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10012" },
-      { shop: "eby", url: "https://ebay.to/10012" }
+    "title": "Ergonomic Office Chair Mesh",
+    "id": "10012",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10012" },
+      { "shop": "eby", "url": "https://ebay.to/10012" }
     ],
-    category: "office",
-    special: "comfort"
+    "category": "office",
+    "special": "comfort"
   },
   {
-    title: "Stainless Steel Water Bottle 1L",
-    id: "10013",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10013" },
-      { shop: "ali", url: "https://aliexpress.to/10013" }
+    "title": "Stainless Steel Water Bottle 1L",
+    "id": "10013",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10013" },
+      { "shop": "ali", "url": "https://aliexpress.to/10013" }
     ],
-    category: "sports",
-    special: "eco"
+    "category": "sports",
+    "special": "eco"
   },
   {
-    title: "Digital Kitchen Weighing Scale",
-    id: "10014",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10014" },
-      { shop: "tem", url: "https://temu.to/10014" }
+    "title": "Digital Kitchen Weighing Scale",
+    "id": "10014",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10014" },
+      { "shop": "tem", "url": "https://temu.to/10014" }
     ],
-    category: "kitchen",
-    special: "diet"
+    "category": "kitchen",
+    "special": "diet"
   },
   {
-    title: "Men's Leather Wallet RFID Blocking",
-    id: "10015",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10015" },
-      { shop: "eby", url: "https://ebay.to/10015" }
+    "title": "Men's Leather Wallet RFID Blocking",
+    "id": "10015",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10015" },
+      { "shop": "eby", "url": "https://ebay.to/10015" }
     ],
-    category: "fashion",
-    special: "gift"
+    "category": "fashion",
+    "special": "gift"
   },
   {
-    title: "Portable Power Bank 20000mAh",
-    id: "10016",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10016" },
-      { shop: "ali", url: "https://aliexpress.to/10016" }
+    "title": "Portable Power Bank 20000mAh",
+    "id": "10016",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10016" },
+      { "shop": "ali", "url": "https://aliexpress.to/10016" }
     ],
-    category: "electronics",
-    special: "travel"
+    "category": "electronics",
+    "special": "travel"
   },
   {
-    title: "Yoga Mat Non-Slip Premium",
-    id: "10017",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10017" },
-      { shop: "tem", url: "https://temu.to/10017" }
+    "title": "Yoga Mat Non-Slip Premium",
+    "id": "10017",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10017" },
+      { "shop": "tem", "url": "https://temu.to/10017" }
     ],
-    category: "sports",
-    special: "fitness"
+    "category": "sports",
+    "special": "fitness"
   },
   {
-    title: "Kids Educational Wooden Puzzle",
-    id: "10018",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10018" },
-      { shop: "alb", url: "https://alibaba.to/10018" }
+    "title": "Kids Educational Wooden Puzzle",
+    "id": "10018",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10018" },
+      { "shop": "alb", "url": "https://alibaba.to/10018" }
     ],
-    category: "kids",
-    special: "learning"
+    "category": "kids",
+    "special": "learning"
   },
   {
-    title: "Smart WiFi Plug Mini",
-    id: "10019",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10019" },
-      { shop: "ali", url: "https://aliexpress.to/10019" }
+    "title": "Smart WiFi Plug Mini",
+    "id": "10019",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10019" },
+      { "shop": "ali", "url": "https://aliexpress.to/10019" }
     ],
-    category: "home",
-    special: "smart"
+    "category": "home",
+    "special": "smart"
   },
   {
-    title: "Electric Kettle 1.8L Fast Boil",
-    id: "10020",
-    aff_links: [
-      { shop: "amz", url: "https://amzn.to/10020" },
-      { shop: "tem", url: "https://temu.to/10020" }
+    "title": "Electric Kettle 1.8L Fast Boil",
+    "id": "10020",
+    "aff_links": [
+      { "shop": "amz", "url": "https://amzn.to/10020" },
+      { "shop": "tem", "url": "https://temu.to/10020" }
     ],
-    category: "kitchen",
-    special: "daily"
+    "category": "kitchen",
+    "special": "daily"
   }
 
 ]
